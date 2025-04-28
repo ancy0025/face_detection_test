@@ -31,4 +31,4 @@ A Python script for real-time face detection using OpenCV's Haar Cascade Classif
 - **Lag**: Lower resolution or adjust `scaleFactor`/`minNeighbors`.
 
 ## License
-Open-source for educational use. Modify and share freely.
+This project is licensed under the MIT License. 
